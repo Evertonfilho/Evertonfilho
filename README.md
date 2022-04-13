@@ -1,6 +1,6 @@
 
 
-### Olá eu sou o Everton Araújo 👋
+### Olá, eu sou o Everton Araújo 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evertonfilho&show_icons=true&theme=tokyonight)
 
