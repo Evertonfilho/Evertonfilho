@@ -5,6 +5,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evertonfilho&show_icons=true&theme=tokyonight)
 
 <div><h1>Sobre mim</h1></div>
+
  - Sou um desenvolvedor web júnior aprendendo constantemente sobre novas tecnologias, especialmente tecnologias do universo Front End.
 
 - Minha tecnologia principal é ReactJs para front-end.
