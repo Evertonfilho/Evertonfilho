@@ -6,11 +6,11 @@
 
 <div><h1>Sobre mim</h1></div>
 
- - Sou um desenvolvedor web júnior aprendendo constantemente sobre novas tecnologias, especialmente tecnologias do universo Front End.
+ - Sou um desenvolvedor web júnior, aprendendo constantemente sobre novas tecnologias, especialmente aquelas do universo front-end.
 
-- Minha tecnologia principal é ReactJs para front-end.
+- Minha linguagem principal é ReactJs para front-end.
 
-- Sou apaixonado por novas tecnologias e vivo em constante aprendizado. Me considero um facilitador, sou autodidata e estou sempre empenhado em colocar meus conhecimentos em prática para impactar positivamente a vida das pessoas.
+- Sou apaixonado por novas tecnologias e vivo em constante aprendizado. Me considero um facilitador, sou autodidata e estou sempre empenhado em colocar os meus conhecimentos em prática para impactar positivamente a vida das pessoas.
 
 <div><h1>Minhas Linguagens</h1></div>
 <div style="display:inline-block"><br/>
